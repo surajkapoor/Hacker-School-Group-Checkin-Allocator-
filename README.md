@@ -16,10 +16,10 @@ To specify number of sets e.g. 1000...
 python group_generator.py 1000
 ```
 
-The output will display the set score...
+The output will display the chosen group and set score...
 
 ```
-"overlap score ==  200"
+{"Lovelace" : [student1, student2...], "Russell" : [student3, student4...]...}, "overlap score ==  200"
 ```
 
 
